@@ -1,0 +1,27 @@
+# Compiled Java files
+*.class
+
+# Build and Output directories
+bin/
+out/
+target/
+
+# IntelliJ IDEA files (REMOVED .idea/)
+*.iml
+
+# Eclipse files
+.metadata/
+.settings/
+.factorypath
+
+# Log files
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
