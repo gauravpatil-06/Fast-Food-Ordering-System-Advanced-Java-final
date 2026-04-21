@@ -70,34 +70,48 @@ Fast Food Delivery/
 
 ---
 
-## 📸 Project Showcase
+## 📸 Project Screenshots
 
-### 🔐 Secure Login & Authentication
-![Login Page](https://github.com/user-attachments/assets/8e63ef0b-9614-4e76-9cf6-77c7a42d549b)
+### 🔐 Authentication – Secure Login
+![Login Page](https://github.com/user-attachments/assets/87fb86f5-ca7b-4314-9cf7-a69af13cf35c)
 
-### 🏠 Dynamic Home & Menu
-![Home Page](https://github.com/user-attachments/assets/a83a3e1a-5adb-4ee5-8941-dc3addb1b9f7)
+### 🏠 Dashboard – Food Menu
+![Home Page](https://github.com/user-attachments/assets/d26b61f1-8a5f-40f9-a69d-d2016407aee4)
 
-### 🧾 Transaction & Order Details
-![Order Details Page](https://github.com/user-attachments/assets/648cc553-22f9-407d-a587-bda01f6a7e80)
+### 🧾 Order Details – Confirmation
+![Order Details Page](https://github.com/user-attachments/assets/bf8245b4-e04b-4bff-b4a8-832bf418a2a9)
 
-### 📜 Comprehensive Order History
-![Order History Page](https://github.com/user-attachments/assets/7c0899b0-a3cb-450c-a873-01831b7fe121)
+### 📜 Order History – Past Orders
+![Order History Page](https://github.com/user-attachments/assets/9ada408f-4c24-4ca6-9f8a-c2b42905e1ba)
 
-### 👤 User Profile Management
-![Profile Page](https://github.com/user-attachments/assets/b7f0ba8b-ca74-46bc-a349-3c7bea5aded0)
-
-### 🔄 System Logic Flowchart
-![Flowchart](https://github.com/user-attachments/assets/94f425a3-f2aa-4b1d-98c6-14a422d87001)
+### 👤 User Profile – Manage Details
+![Profile Page](https://github.com/user-attachments/assets/6a68623a-e6d8-4869-8b92-3bda82871269)
 
 ---
 
-## ⚙️ How to Run
+## 🔄 System Flowchart
 
-1.  **Clone the Repo**: `git clone https://github.com/gauravpatil-06/Fast-Food-Ordering-System-Advanced-Java-final.git`
-2.  **Database Setup**: Import the SQL file into your MySQL workbench.
-3.  **IDE Import**: Open the project in Eclipse, IntelliJ, or NetBeans.
-4.  **Launch**: Run `SplashScreen.java` or `LoginPage.java` to start the app.
+<img width="614" height="887" alt="Flowchart" src="https://github.com/user-attachments/assets/94f425a3-f2aa-4b1d-98c6-14a422d87001" />
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Repository Setup
+```bash
+git clone https://github.com/gauravpatil-06/-Fast-Food-Ordering-System-Advanced-Java.git
+```
+
+### 2. Database Configuration
+*   Open your **MySQL Workbench** or any other database client.
+*   Import the provided `.sql` file to set up the necessary tables and data.
+
+### 3. IDE Configuration
+*   Import the project into **Eclipse**, **IntelliJ**, or **NetBeans**.
+*   Ensure that the **MySQL Connector J** (JDBC Driver) is added to the project's libraries.
+
+### 4. Launching the App
+*   Run `SplashScreen.java` or `LoginPage.java` as a **Java Application**.
 
 ---
 
