@@ -73,25 +73,25 @@ Fast Food Delivery/
 ## 📸 Project Screenshots
 
 ### 🔐 Authentication – Secure Login
-![Login Page](https://github.com/user-attachments/assets/87fb86f5-ca7b-4314-9cf7-a69af13cf35c)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bf5c9701-df7f-4c4d-b127-63346490089f" />
 
 ### 🏠 Dashboard – Food Menu
-![Home Page](https://github.com/user-attachments/assets/d26b61f1-8a5f-40f9-a69d-d2016407aee4)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/1deb2728-43d7-4194-a2b3-cdcbb1f4f7cd" />
 
 ### 🧾 Order Details – Confirmation
-![Order Details Page](https://github.com/user-attachments/assets/bf8245b4-e04b-4bff-b4a8-832bf418a2a9)
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ebacca48-e400-4957-a46a-03eb283fc1e4" />
 
 ### 📜 Order History – Past Orders
-![Order History Page](https://github.com/user-attachments/assets/9ada408f-4c24-4ca6-9f8a-c2b42905e1ba)
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/99927292-4795-4a68-b46c-16ba5e88509f" />
 
 ### 👤 User Profile – Manage Details
-![Profile Page](https://github.com/user-attachments/assets/6a68623a-e6d8-4869-8b92-3bda82871269)
+<img width="1903" height="1072" alt="5" src="https://github.com/user-attachments/assets/ef225d1d-f67a-454e-8f5e-2c74babc8374" />
 
 ---
 
 ## 🔄 System Flowchart
 
-<img width="614" height="887" alt="Flowchart" src="https://github.com/user-attachments/assets/94f425a3-f2aa-4b1d-98c6-14a422d87001" />
+<img width="614" height="887" alt="6" src="https://github.com/user-attachments/assets/739c9ad6-c1e9-4621-9750-1a4caef6324b" />
 
 ---
 
